@@ -1,0 +1,41 @@
+#EXTM3U
+
+#EXTINF:-1 ,España TDT
+
+https://iptv-org.github.io/iptv/countries/es.m3u
+
+#EXTINF:-1 ,España TDT 2
+
+https://iptv-org.github.io/iptv/subdivisions/ es-an .m3u
+
+#EXTINF:-1 ,Argentina TDT
+
+https://iptv-org.github.io/iptv/countries/ar.m3u
+
+#EXTINF:-1 ,Chile TDT
+
+https://iptv-org.github.io/iptv/countries/cl.m3u
+
+#EXTINF:-1 ,Colombia TDT
+
+https://iptv-org.github.io/iptv/countries/co.m3u
+
+#EXTINF:-1 ,Mexico TDT
+
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 ,Mexico TDT 1
+
+https://iptv-org.github.io/iptv/subdivisions/mx-agu.m3u
+
+#EXTINF:-1 ,Mexico TDT 2
+
+https://iptv-org.github.io/iptv/subdivisions/mx-chh.m3u
+
+#EXTINF:-1 ,Peru TDT
+
+https://iptv-org.github.io/iptv/countries/pe.m3u
+
+#EXTINF:-1 ,Peru TDT 1
+
+
